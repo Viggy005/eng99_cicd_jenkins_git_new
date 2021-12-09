@@ -35,4 +35,4 @@
 ![](pics/JOB3/3.png)
 ![](pics/JOB3/4.png)
 ![](pics/JOB3/5.png)
-![](pics/JOB3/6.png)
+![](Pics/JOB3/6.png)
