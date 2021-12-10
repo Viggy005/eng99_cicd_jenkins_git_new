@@ -12,6 +12,8 @@
 -       cd .ssh (recomended places to generate and store keys)
 -       ssh-keygen -t ed25519 -C "your_email@example.com"
 
+# on github
+
 # Job1 (check if app is good to go):
 ![](Pics/JOB1/1.png)
 ![](Pics/JOB1/2.png)
@@ -25,7 +27,7 @@
 ![](Pics/JOB2/1.png)
 ![](Pics/JOB2/2.png)
 ![](Pics/JOB2/3.png)
-# need to add build trigger
+
 ![](Pics/JOB2/4.png)
 ![](Pics/JOB2/5.png)
 ![](Pics/JOB2/6.png)
