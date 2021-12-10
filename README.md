@@ -25,6 +25,7 @@
 ![](Pics/JOB2/1.png)
 ![](Pics/JOB2/2.png)
 ![](Pics/JOB2/3.png)
+# need to add build trigger
 ![](Pics/JOB2/4.png)
 ![](Pics/JOB2/5.png)
 ![](Pics/JOB2/6.png)
