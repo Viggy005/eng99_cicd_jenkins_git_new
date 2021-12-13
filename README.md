@@ -39,3 +39,6 @@
 ![](Pics/JOB3/4.png)
 ![](Pics/JOB3/5.png)
 ![](Pics/JOB3/6.png)
+
+# create own jenkins and run:
+![](Pics/jenkins.png)
