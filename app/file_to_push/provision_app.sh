@@ -8,6 +8,8 @@ sudo apt-get upgrade -y
 
 # install nginx
 sudo apt-get install nginx -y
+sudo systemctl restart nginx
+Sudo systemctl enable nginx
 
 # install git
 sudo apt-get install git -y
@@ -18,4 +20,5 @@ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt-get install nodejs -y
 
 # install pm2
+Sudo apt-get install npm -y
 sudo npm install pm2 -g
