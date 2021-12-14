@@ -1,6 +1,6 @@
 # CICD
 # project Diagram:
-![](Pics/jenkins/jenkins_VPC.png)
+![](Pics/jenkins/jenk.png)
 ## Github ssh set up
 ### Webhooks
 ![](images/CICD.png)
