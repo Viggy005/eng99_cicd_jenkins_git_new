@@ -1,10 +1,10 @@
 # CICD
 # project Diagram:
-![](pics/jenkins_VPC.png)
+![](Pics/jenkins_VPC.png)
 ## Github ssh set up
 ### Webhooks
 ![](images/CICD.png)
-![](pics/cicd_app.png)
+![](Pics/cicd_app.png)
 ![](images/cicd_jenkins.png)
 ![](images/jenkins.png)
 # generate SSH:
