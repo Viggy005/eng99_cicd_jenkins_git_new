@@ -4,7 +4,7 @@
 ## Github ssh set up
 ### Webhooks
 ![](images/CICD.png)
-![](Pics/jenkins/cicd_app.png)
+![](Pics/jenkins/CICD.png)
 ![](images/cicd_jenkins.png)
 ![](images/jenkins.png)
 # generate SSH:
