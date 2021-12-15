@@ -44,3 +44,10 @@
 
 # create own jenkins and run:
 ![](Pics/jenkins.png)
+
+# Job4 (launch DB into aws ec2):
+![](Pics/JOB4/1.png)
+![](Pics/JOB4/2.png)
+![](Pics/JOB4/3.png)
+![](Pics/JOB4/4.png)
+![](Pics/JOB4/5.png)
