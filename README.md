@@ -1,10 +1,10 @@
 # CICD
 # project Diagram:
-![](Pics/jenkins_VPC.png)
+![](Pics/jenkins/jenk.png)
 ## Github ssh set up
 ### Webhooks
 ![](images/CICD.png)
-![](Pics/cicd_app.png)
+![](Pics/jenkins/CICD.png)
 ![](images/cicd_jenkins.png)
 ![](images/jenkins.png)
 # generate SSH:
@@ -44,3 +44,10 @@
 
 # create own jenkins and run:
 ![](Pics/jenkins.png)
+
+# Job4 (launch DB into aws ec2):
+![](Pics/JOB4/1.png)
+![](Pics/JOB4/2.png)
+![](Pics/JOB4/3.png)
+![](Pics/JOB4/4.png)
+![](Pics/JOB4/5.png)
