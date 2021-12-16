@@ -17,38 +17,38 @@
 # on github
 
 # Job1 (check if app is good to go):
-![](Pics/JOB1/1.png)
-![](Pics/JOB1/2.png)
-![](Pics/JOB1/3.png)
-![](Pics/JOB1/4.png)
-![](Pics/JOB1/5.png)
-![](Pics/JOB1/6.png)
-![](Pics/JOB1/7.png)
+![](Pics/JB1/1.png)
+![](Pics/JB1/2.png)
+![](Pics/JB1/3.png)
+![](Pics/JB1/4.png)
+![](Pics/JB1/5.png)
+![](Pics/JB1/6.png)
+![](Pics/JB1/7.png)
 
 # Job2 (merge dev branch inot master/main):
-![](Pics/JOB2/1.png)
-![](Pics/JOB2/2.png)
-![](Pics/JOB2/3.png)
+![](Pics/JB2/1.png)
+![](Pics/JB2/2.png)
+![](Pics/JB2/3.png)
 
-![](Pics/JOB2/4.png)
-![](Pics/JOB2/5.png)
-![](Pics/JOB2/6.png)
+![](Pics/JB2/4.png)
+![](Pics/JB2/5.png)
+![](Pics/JB2/6.png)
 
 # Job3 (launch DB into aws ec2):
-![](Pics/JOB3/1.png)
-![](Pics/JOB3/2.png)
-![](Pics/JOB3/3.png)
-![](Pics/JOB3/4.png)
-![](Pics/JOB3/5.png)
-![](Pics/JOB3/6.png)
+![](Pics/JB3/1.png)
+![](Pics/JB3/2.png)
+![](Pics/JB3/3.png)
+![](Pics/JB3/4.png)
+![](Pics/JB3/5.png)
+![](Pics/JB3/6.png)
 
 # create own jenkins and run:
 ![](Pics/jenkins.png)
 
 # Job4 (launch app into aws ec2):
-![](Pics/JOB4/1.png)
-![](Pics/JOB4/2.png)
-![](Pics/JOB4/3.png)
-![](Pics/JOB4/4.png)
-![](Pics/JOB4/5.png)
-![](Pics/JOB4/6.png)
+![](Pics/JB4/1.png)
+![](Pics/JB4/2.png)
+![](Pics/JB4/3.png)
+![](Pics/JB4/4.png)
+![](Pics/JB4/5.png)
+![](Pics/JB4/6.png)
