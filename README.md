@@ -34,7 +34,7 @@
 ![](Pics/JOB2/5.png)
 ![](Pics/JOB2/6.png)
 
-# Job3 (launch into aws ec2):
+# Job3 (launch DB into aws ec2):
 ![](Pics/JOB3/1.png)
 ![](Pics/JOB3/2.png)
 ![](Pics/JOB3/3.png)
@@ -45,9 +45,10 @@
 # create own jenkins and run:
 ![](Pics/jenkins.png)
 
-# Job4 (launch DB into aws ec2):
+# Job4 (launch app into aws ec2):
 ![](Pics/JOB4/1.png)
 ![](Pics/JOB4/2.png)
 ![](Pics/JOB4/3.png)
 ![](Pics/JOB4/4.png)
 ![](Pics/JOB4/5.png)
+![](Pics/JOB4/6.png)
