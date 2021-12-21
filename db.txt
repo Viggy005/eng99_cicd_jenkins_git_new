@@ -4,3 +4,4 @@ and chocolate
 and candy
 and vaccine
 and booster
+and fever
